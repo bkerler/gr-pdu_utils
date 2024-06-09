@@ -16,6 +16,7 @@
 #include <gnuradio/pdu_utils/constants.h>
 #include <volk/volk.h>
 #include <boost/format.hpp>
+#include <bitset>
 
 namespace gr {
 namespace pdu_utils {
